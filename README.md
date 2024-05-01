@@ -1,6 +1,6 @@
-![MasterHead](https://cdn.buttercms.com/zLnTfXaDQw2Oi5Y08D0p)
-<h1 align="center">Hi 👋, I'm Asad Abbas</h1>
-<h3 align="center">Coding the Now, Building the Future | Eager to Shape the Future with Web3</h3>
+![MasterHead](https://media.licdn.com/dms/image/D5616AQGrg0rj6aWMZw/profile-displaybackgroundimage-shrink_200_800/0/1693927068888?e=2147483647&v=beta&t=hU3MpMQHzamYQeZZEm5IcEFbauLjLJ8OQw4AIw_rLAA)
+<h1 align=" center">Hi 👋, I'm Asad Abbas</h1>
+<h2 align="center">Coding the Now, Building the Future | Eager to Shape the Future with Web3</h2>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <a href="https://twitter.com/asadabbas" target="blank"><img src="https://img.shields.io/twitter/follow/asadabbas?logo=twitter&style=for-the-badge" alt="asadabbas" /></a> </p>
 
