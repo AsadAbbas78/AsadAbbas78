@@ -1,4 +1,4 @@
-![MasterHead](https://www.doynt.com/blog/wp-content/uploads/2018/04/animation.gif)
+![MasterHead](https://cdn.buttercms.com/zLnTfXaDQw2Oi5Y08D0p)
 <h1 align="center">Hi 👋, I'm Asad Abbas</h1>
 <h3 align="center">Coding the Now, Building the Future | Eager to Shape the Future with Web3</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
